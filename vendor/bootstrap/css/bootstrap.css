@@ -6719,6 +6719,7 @@ button.bg-dark:focus {
   display: block;
   clear: both;
   content: "";
+  background-color: transparent;
 }
 
 .d-none {
